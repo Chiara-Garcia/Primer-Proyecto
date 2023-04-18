@@ -1,0 +1,32 @@
+/* generales */
+body{
+    background-image:url("https://i.pinimg.com/originals/53/58/24/53582465d8ac7c33c1f2888294fed4e3.gif");
+    font-family: 'Roboto', sans-serif;
+}
+
+button{
+
+    width:50px;
+    height: 50px;
+}
+
+/* body */
+.foto{
+    width: 400px;
+    display: block;
+    margin: auto;
+    border-radius: 20px 50px;
+
+
+}
+
+.icono-footer{
+    width: 50px;
+}
+
+h1{
+    background-color: rgba(233, 74, 53, 0.644);
+}
+h2{
+background-color: rgba(223, 64, 46, 0.644);
+}
